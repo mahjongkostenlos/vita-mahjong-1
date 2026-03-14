@@ -14,12 +14,11 @@ Details: https://mahjongkostenlos.app/vita-mahjong/
 
 Mehr sehen: 
 
-https://myanimelist.net/blog.php?eid=911961
-
-https://myanimelist.net/blog.php?eid=911960
+https://github.com/mahjongkostenlos/mahjong-classic/blob/main/mahjong-classic-README.md
+https://github.com/mahjongkostenlos/mahjong-alchemy/blob/main/mahjong-alchemy-README.md
 
 Telefon: +493098374548
 Adresse: Berliner Allee 125, 13088 Berlin, Germany
-E-mail:  mahjongkostenlos@gmail.com
+
 #vitamahjong
 #mahjongkostenlos
